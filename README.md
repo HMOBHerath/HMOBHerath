@@ -57,14 +57,12 @@
 
 ---
 
-## AI, Machine Learning & Computer Vision
+## Image Processing & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
 
@@ -74,7 +72,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square)
-![LTspice](https://img.shields.io/badge/LTspice-B22222?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -86,8 +83,6 @@
 - 🚀 Embedded Systems
 - 🤖 Robotics & Autonomous Systems
 - 🖥️ PCB Design
-- 🧠 AI & Machine Learning
-- 👁️ Computer Vision
 - ⚡ Real-Time Embedded Applications
 
 ---
@@ -98,7 +93,7 @@
 
 Always interested in collaborating on Embedded Systems, Robotics, Computer Vision and AI projects.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshan-herath-2a5274338/)
 
 ⭐ Thanks for visiting my profile!
 
