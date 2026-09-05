@@ -34,7 +34,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square)
 
 ---
 
