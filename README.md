@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Oshan Bhawantha 👋
+# Hi, I'm Oshan Bhawantha 👋
 
-### Electrical & Electronic Engineering Undergraduate | Embedded Systems | Robotics | AI & Computer Vision
+### Electrical & Electronic Engineering Undergraduate | Embedded Systems | Robotics | PCB & Circuit Design
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00A6FF&center=true&vCenter=true&width=850&lines=Designing+Embedded+Systems+with+STM32;Building+Robotics+%26+Control+Systems;PCB+Design+using+Altium+Designer;Computer+Vision+%26+AI+Applications;Always+Learning+Something+New)](https://git.io/typing-svg)
 
