@@ -43,7 +43,6 @@
 ![PCB](https://img.shields.io/badge/Multi--Layer_PCB_Design-D32F2F?style=flat-square)
 ![Schematic](https://img.shields.io/badge/Schematic_Design-1565C0?style=flat-square)
 ![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-6A1B9A?style=flat-square)
-![SWD](https://img.shields.io/badge/SWD%20%7C%20JTAG_Debugging-555555?style=flat-square)
 
 ---
 
